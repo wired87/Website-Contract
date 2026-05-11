@@ -26,16 +26,17 @@ Der Auftragnehmer erstellt für den Auftraggeber eine **programmatische Website 
 Die Leistung kann modular eingesetzt werden und umfasst insbesondere:
 
 - Programmatische Erstellung einer Website oder einzelner Website-Module  
+- Implementierung interaktiver oder visueller Effekte  
 - Anpassung an eine vom Auftraggeber bereitgestellte Vorlage oder bestehende Website  
-- Bereitstellung des funktionsfähigen Codes
-- Responsive Design 
+- Bereitstellung des funktionsfähigen Codes  
 - Optional: Integration in eine bestehende Website oder Plattform  
-- neu aufgesetztes Hosting (https)
-- Marketing- oder SEO-Leistungen (einmalig)
-  
+
+Die entwickelte Lösung ist **modular verwendbar** und kann in verschiedene Websites oder digitale Projekte integriert werden.
+
 Nicht Bestandteil dieses Vertrags sind insbesondere:
 
-- vollständige Designentwicklung ohne Vorlage    
+- vollständige Designentwicklung ohne Vorlage  
+- Marketing- oder SEO-Leistungen  
 - Hosting, Infrastruktur oder Serverbetrieb  
 - langfristige Wartung oder Weiterentwicklung  
 - Content-Erstellung (Texte, Bilder, Medien)
@@ -46,9 +47,9 @@ Nicht Bestandteil dieses Vertrags sind insbesondere:
 
 Der Leistungszeitraum beträgt **maximal einen Monat**.
 
-Projektbeginn: _____________2 Wochen_____________________________  
+Projektbeginn: __________________________________________  
 
-Spätester Fertigstellungstermin: _____________26.05.2026_____________________________  
+Spätester Fertigstellungstermin: __________________________________________  
 
 Die Frist verlängert sich angemessen, wenn erforderliche Materialien, Zugänge oder Spezifikationen nicht rechtzeitig bereitgestellt werden.
 
@@ -58,15 +59,15 @@ Die Frist verlängert sich angemessen, wenn erforderliche Materialien, Zugänge 
 
 Der Auftraggeber zahlt für die in §1 beschriebenen Leistungen eine **einmalige Vergütung von**
 
-Betrag: ___________________150_______________________ EUR
+Betrag: __________________________________________ EUR
 
 Zahlungsbedingungen:
 
 - [ ] 100 % Vorauszahlung  
 - [ ] 50 % bei Vertragsbeginn / 50 % bei Fertigstellung  
-- [X] andere Vereinbarung: _____100% bei Fertigstellung_____________________________________  
+- [ ] andere Vereinbarung: __________________________________________  
 
-Zahlungsfrist: ___1 Tag nach Rechnungsstellung.
+Zahlungsfrist: __________ Tage nach Rechnungsstellung.
 
 ---
 
@@ -76,7 +77,7 @@ Der Auftraggeber stellt rechtzeitig folgende Materialien bereit:
 
 - Vorlage oder Referenz der gewünschten Website oder Funktion  
 - Zugriff auf Website, Repository oder Testumgebung (falls Integration gewünscht)  
-- notwendige technische Informationen (hosting creds http->https)  
+- notwendige technische Informationen  
 - gegebenenfalls vorhandene Design- oder Brand-Guidelines  
 
 Verzögerungen aufgrund fehlender Mitwirkung verlängern die Projektlaufzeit entsprechend.
@@ -87,7 +88,7 @@ Verzögerungen aufgrund fehlender Mitwirkung verlängern die Projektlaufzeit ent
 
 Nach Bereitstellung der vereinbarten Website oder Website-Komponente erfolgt eine **Abnahme durch den Auftraggeber**.
 
-Der Auftraggeber prüft die Leistung innerhalb von ______19____ Tagen.
+Der Auftraggeber prüft die Leistung innerhalb von __________ Tagen.
 
 Erfolgt innerhalb dieser Frist keine begründete Beanstandung, gilt die Leistung als abgenommen.
 
