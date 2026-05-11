@@ -28,7 +28,7 @@ Die Leistung kann modular eingesetzt werden und umfasst insbesondere:
 - Programmatische Erstellung einer Website oder einzelner Website-Module  
 - Anpassung an eine vom Auftraggeber bereitgestellte Vorlage oder bestehende Website  
 - Bereitstellung des funktionsfähigen Codes
-- Responsive design 
+- Responsive Design 
 - Optional: Integration in eine bestehende Website oder Plattform  
 - neu aufgesetztes Hosting (https)
 - Marketing- oder SEO-Leistungen (einmalig)
@@ -64,7 +64,7 @@ Zahlungsbedingungen:
 
 - [ ] 100 % Vorauszahlung  
 - [ ] 50 % bei Vertragsbeginn / 50 % bei Fertigstellung  
-- [ X ] andere Vereinbarung: _____100% bei Fertigstellung_____________________________________  
+- [X] andere Vereinbarung: _____100% bei Fertigstellung_____________________________________  
 
 Zahlungsfrist: ___1  Tage nach Rechnungsstellung.
 
