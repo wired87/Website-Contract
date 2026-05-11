@@ -66,7 +66,7 @@ Zahlungsbedingungen:
 - [ ] 50 % bei Vertragsbeginn / 50 % bei Fertigstellung  
 - [X] andere Vereinbarung: _____100% bei Fertigstellung_____________________________________  
 
-Zahlungsfrist: ___1 Tage nach Rechnungsstellung.
+Zahlungsfrist: ___1 Tag nach Rechnungsstellung.
 
 ---
 
