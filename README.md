@@ -32,11 +32,11 @@ Die Leistung kann modular eingesetzt werden und umfasst insbesondere:
 - Optional: Integration in eine bestehende Website oder Plattform  
 - neu aufgesetztes Hosting (https)
 - Marketing- oder SEO-Leistungen (einmalig)
-  
+- Einrichtung Hosting
+
 Nicht Bestandteil dieses Vertrags sind insbesondere:
 
-- vollständige Designentwicklung ohne Vorlage    
-- Hosting, Infrastruktur oder Serverbetrieb  
+- vollständige Designentwicklung ohne Vorlage      
 - langfristige Wartung oder Weiterentwicklung  
 - Content-Erstellung (Texte, Bilder, Medien)
 
